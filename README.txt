@@ -1,0 +1,1 @@
+This is just a silly little python 3 game which generates mathematics questions. Hope you have a good time playing it.
